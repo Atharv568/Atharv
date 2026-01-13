@@ -9,6 +9,7 @@ class replacingString {
         System.out.print("The changed String is : ");
         System.out.println(name2);
         System.out.print("The letter is Changed");
+   sc.close();
     }
 
 
