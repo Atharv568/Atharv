@@ -27,5 +27,5 @@ public class findOccurence {
 
         System.out.println("First occurrence is : " + first);
         System.out.println("Last occurrence is : " + last);
-    }
+    } 
 }
