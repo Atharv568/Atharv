@@ -12,5 +12,6 @@ public class reverseString {
         Scanner sc = new Scanner(System.in);
         String name=sc.next();
         reverseString(name, name.length()-1);
+        sc.close();
     }
 }

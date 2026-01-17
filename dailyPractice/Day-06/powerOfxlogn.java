@@ -24,6 +24,6 @@ public class powerOfxlogn {
         int x= sc.nextInt();
         int ans =powerX(x,n);
         System.out.print(ans);
-     
+     sc.close();
     }
 }
